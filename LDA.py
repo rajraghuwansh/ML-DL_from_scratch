@@ -63,5 +63,6 @@ if __name__ == "__main__":
     plt.scatter(x1,x2,c = y,cmap=plt.cm.get_cmap('viridis',3))
     plt.colorbar()
     plt.show()
+    print("LDA Finish")
   
 
